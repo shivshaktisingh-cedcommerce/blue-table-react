@@ -1,0 +1,94 @@
+
+#outer{
+  width:100%;
+ 
+  background-color: white;
+}
+#component2{
+  font-size:1.3vw;
+  text-align:center;
+  width:100%;
+  height:10vw;
+  background-color: #03a1fc;
+  color:white;
+}
+h1{
+  padding:2%;
+}
+#component3{
+  margin-top:2%;
+  background-color:white;
+  width:100%;
+  height:45vw;
+  display:flex;
+  font-size:2vw;
+ 
+}
+#component4{
+  background-color:white;
+  width:31%;
+  height:45vw;
+  
+  
+  
+}
+#component5{
+  color:white;
+  margin-left:2%;
+  background-color: #03a1fc;
+  width:35%;
+  height:45vw;
+  display:table;
+}
+#check1{
+  display:table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:21.5vw;
+}
+#check2{
+  display:table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:21.5vw;
+}
+#check3{
+  display:table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:21.5vw;
+}
+#check4{
+  display:table-cell;
+  vertical-align:middle;
+  width:100%;
+  height:21.5vw;
+}
+
+#component6{
+  margin-left:2%;
+  width:31%;
+  height:45vw;
+  display:table;
+}
+#component41{
+  color:white;
+  background-color: #03a1fc;
+  width:100%;
+  height:21.5vw;
+  display:table;
+}
+#component42{
+  color:white;
+  margin-top:4%;
+  background-color: #03a1fc;
+  width:100%;
+  height:22.2vw;
+  display:table;
+}
+#component61{
+  color:white;
+  background-color: #03a1fc;
+  width:100%;
+  height:22vw;
+}
